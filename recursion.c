@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int somar(int valor){
     if(valor==0){
